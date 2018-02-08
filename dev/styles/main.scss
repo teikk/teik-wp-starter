@@ -1,0 +1,11 @@
+/**
+ * Domyślne elementy strony
+ */
+@import "bootstrap/bootstrap",
+        "core/variables",
+        "core/elements";
+
+/**
+ * Konkretne komponenty
+ */
+@import "components/navigation";
